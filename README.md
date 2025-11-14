@@ -1,10 +1,10 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center">Hi 👋, I'm Aman Pathak from India🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Dharma from India🇮🇳</h1>
 
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="dharma-devops" /> </p>
 
 - 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/AmanPathak-DevOps/Terraform-for-AWS)
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@amandevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://mannatechnologies.in" height="30" width="40" /></a>
+<a href="https://mannatechnologies.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://mannatechnologies.in" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 <a href="https://fb.com/amanpathakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/amanpathakofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/pathak_sahab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/pathak_sahab07" height="30" width="40" /></a>
