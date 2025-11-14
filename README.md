@@ -14,21 +14,21 @@
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
-- 📫 How to reach me **aman.pathakbz@gmail.com**
+- 📫 How to reach me **https://mannatechnologies.in/**
 
 - ⚡ Fun fact **I am Extrovert**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aman-devops](https://www.linkedin.com/in/aman-devops)
+- 📄 Know about my experiences (https://mannatechnologies.in)
 
 ### Blogs posts
-<a href="https://amanpathakdevops.medium.com" target="_blank">Aman Pathak On Medium</a> 
+<a href="https://mannatechnologies.in" target="_blank">Dharma On Medium</a> 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aman.pathak)
+[!["Buy Me A Coffee"](https://mannatechnologies.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@amandevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://hashnode.com/@amandevops" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-devops" height="30" width="40" /></a>
+<a href="https://dev.to/@amandevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://mannatechnologies.in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 <a href="https://fb.com/amanpathakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/amanpathakofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/pathak_sahab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/pathak_sahab07" height="30" width="40" /></a>
 <a href="https://hashnode.com/@amandevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@amandevops" height="30" width="40" /></a>
